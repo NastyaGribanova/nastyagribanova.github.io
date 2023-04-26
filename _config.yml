@@ -1,10 +1,10 @@
-title: Анастасия Грибанова
+title: <big>Анастасия Грибанова</big>
 logo: "/images/logo.png?raw=true" 
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <big><b>ML-инженер</b> </big>
   <br><br>
    <b>Образование: </b>
-  <br><br>
+  <br>
   Казанский Федеральный Университет Институт Информационных технологий и интеллектуальных систем
   
 theme: jekyll-theme-minimal
