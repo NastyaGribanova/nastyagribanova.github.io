@@ -1,12 +1,16 @@
-## Portfolio
+## Портфолио
 
 ---
 
-### Category Name 1 
+### Распознавание шрифтов кириллицы на изображениях
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Задача определения названия шрифта, которым написан текст на изображении. В данном проекте была дообучена нейронная сеть GoogleNet на сгенерированных изображениях с русским текстом
 
+<img src="images/gif.gif" width="100%"></p>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Pillow-white?logo=pillow)](#)
+
+[View code on Github](https://github.com/NastyaGribanova/My_cyrillic_font)
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
