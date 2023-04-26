@@ -1,13 +1,13 @@
 title: Анастасия Грибанова
 logo: "/images/logo.png?raw=true" 
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  ML-инженер 
+  <big>ML-инженер </big>
   <br><br>
    <b>Образование: </b>
   <br><br>
   Казанский Федеральный Университет Институт Информационных технологий и интеллектуальных систем
   
-remote_theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 plugins:
 - jekyll-remote-theme
 google_analytics: 
