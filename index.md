@@ -6,9 +6,9 @@
 
 Задача определения названия шрифта, которым написан текст на изображении. В данном проекте была дообучена нейронная сеть GoogleNet на сгенерированных изображениях с русским текстом
 
-<img src="images/gif.gif" width="100%"></p>
+<img src="images/gif.gif" width="100%">
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Pillow-white?logo=pillow)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Pillow-white?logo=pillow)](#) [![](https://img.shields.io/badge/NumPy-white?logo=numpy)](#) [![](https://img.shields.io/badge/YandexCloud-white?logo=yandexcloud)](#)
 
 [View code on Github](https://github.com/NastyaGribanova/My_cyrillic_font)
 ---
@@ -35,5 +35,5 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px" color="black">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
