@@ -25,6 +25,16 @@
 
 ---
 
+### Анализ данных о страховых выплатах
+
+Необходимо было проанализировать данные и заполнить пропуски
+
+<img src="images/gender.png?raw=true" />
+
+[View code on Colab](https://colab.research.google.com/drive/17wZ83C63BKYI4GXB1m0yib4XKrl_Y8pH?usp=sharing)
+
+---
+
 ### Извлечение необходимого фрагмента текста из документов
 
 Задача Question-Answering для поиска фрагмента текста в документах(арбитражные иски, госзакупки и подобные). Была дообучена модель Rubert-tiny.
