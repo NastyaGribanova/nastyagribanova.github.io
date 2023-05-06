@@ -35,6 +35,7 @@
 
 [View code on Colab](https://colab.research.google.com/drive/17wZ83C63BKYI4GXB1m0yib4XKrl_Y8pH?usp=sharing)
 
+<!--
 ---
 
 ### Извлечение необходимого фрагмента текста из документов
@@ -48,6 +49,8 @@
 [View predict on Colab](https://colab.research.google.com/drive/1jucg8SmQZq4MkvASBhgagjOZa-3t78w7?usp=sharing)
 
 ---
+-->
+
 <!--
 ### Category Name 2
 
